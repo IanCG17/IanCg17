@@ -7,3 +7,6 @@ p {
 .limpiar {
     clear: both;
 }
+img{
+    float: left;
+}
