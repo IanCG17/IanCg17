@@ -1,0 +1,9 @@
+p {
+    float: right;
+   
+    width: 200px;
+}
+
+.limpiar {
+    clear: both;
+}
